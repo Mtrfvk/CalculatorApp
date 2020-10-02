@@ -1,0 +1,9 @@
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\bin\Debug\CalculatorConsoleApps3.exe.config
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\bin\Debug\CalculatorConsoleApps3.exe
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\bin\Debug\CalculatorConsoleApps3.pdb
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.Form1.resources
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.Properties.Resources.resources
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.csproj.GenerateResource.cache
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.csproj.CoreCompileInputs.cache
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.exe
+E:\Calculator1\CalculatorConsoleApps3\CalculatorConsoleApps3\obj\Debug\CalculatorConsoleApps3.pdb
